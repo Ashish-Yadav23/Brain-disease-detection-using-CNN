@@ -1,0 +1,5 @@
+venv/
+Dataset/
+td/
+*.keras
+__pycache__/
